@@ -11,6 +11,10 @@ La aplicación de formulario de registro consta de los siguientes componentes:
 - **Formulario**: Contiene los campos de entrada para nombre, correo electrónico, contraseña y confirmación de contraseña, así como el botón de envío del formulario.
 - **Alert**: Muestra una alerta con un mensaje de éxito o error después de enviar el formulario.
 
+## Screenshot
+
+<img width="1440" alt="Screenshot 2024-03-10 at 21 30 14" src="https://github.com/fcolabbe/desafio2-react/assets/19920764/f57db595-cc35-426e-8b48-30e5d5e64876">
+
 ## Tecnologías utilizadas
 
 - React
